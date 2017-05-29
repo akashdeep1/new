@@ -26,3 +26,4 @@ Once the server is running, open the project in the shape of 'https://projectnam
 # instaclone
 # clone
 # clone
+# clone
